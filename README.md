@@ -21,7 +21,7 @@ App automation with Selenium Appium is beneficial because it allows developers a
 - Clone this project
 - Open Android Studio and Open the APK file:
 - Set required configuration 
-- Hit this command in cmd for checking the connectivity with emulator : ``dbd devices``
+- Hit this command in cmd for checking the connectivity with emulator : ``adb devices``
 - Open Appium Server with following command: ```appium -p 4723```
 - Open Appium Inspector
 - Set desired capabilites in json format:
