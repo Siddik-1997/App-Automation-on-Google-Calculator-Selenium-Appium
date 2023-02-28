@@ -76,7 +76,9 @@ App automation with Selenium Appium is beneficial because it allows developers a
 
 ## Allure Report:
 
-![App automation1](https://user-images.githubusercontent.com/123433625/221762510-269a599a-7bba-4c8d-b6e7-cd7ae443bc77.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/123433625/221787737-86cb2a17-622d-47fb-a52d-46834502bb80.png)
 
 
-![App automation2](https://user-images.githubusercontent.com/123433625/221762515-c1fbe1a2-e861-418e-9d10-b645a1330c09.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/123433625/221787758-f6d483c4-359b-4372-88cd-8f0d8c591501.png)
+
+
