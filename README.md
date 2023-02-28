@@ -1,4 +1,4 @@
-# App_Automation_on_Google_Calculator
+# App Automation on Google Calculator with Selenium Appium
 
 
 ## Allure Report
