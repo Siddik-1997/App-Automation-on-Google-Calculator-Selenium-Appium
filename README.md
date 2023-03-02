@@ -81,4 +81,9 @@ App automation with Selenium Appium is beneficial because it allows developers a
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/123433625/221787758-f6d483c4-359b-4372-88cd-8f0d8c591501.png)
 
+## Video Output:
+
+https://user-images.githubusercontent.com/123433625/222357881-fc5ade76-607b-47d8-884d-cd7c4f4c6b6b.mp4
+
+
 
