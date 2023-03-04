@@ -56,24 +56,6 @@ App automation with Selenium Appium is beneficial because it allows developers a
 - Install jdk 8 or any LTS version
 - Configure ANDROID_HOME, JAVA_HOME and GRADLE_HOME
 
-## Dependencies: 
-
-// https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
-
-    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
-    
-// https://mvnrepository.com/artifact/org.testng/testng
-
-    testImplementation group: 'org.testng', name: 'testng', version: '7.5'
-    
-// https://mvnrepository.com/artifact/io.appium/java-client
-
-    implementation group: 'io.appium', name: 'java-client', version: '7.5.1'
-    
-// https://mvnrepository.com/artifact/io.qameta.allure/allure-testng
-
-    implementation group: 'io.qameta.allure', name: 'allure-testng', version: '2.20.1'
-
 ## Allure Report:
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/123433625/221787737-86cb2a17-622d-47fb-a52d-46834502bb80.png)
