@@ -32,7 +32,7 @@ public class CalcScreen {
     @FindBy(id=Setup.PACKAGE_ID+":id/eq")
     AndroidElement btnEql;
     @FindBy(id = Setup.PACKAGE_ID+":id/result_final")
-    AndroidElement resulFinal;
+    AndroidElement resultFinal;
     @FindBy(id = Setup.PACKAGE_ID+":id/clr")
     AndroidElement btnClr;
 
@@ -46,7 +46,7 @@ public class CalcScreen {
         btnPlus.click();
         btn5.click();
         btnEql.click();
-        return resulFinal.getText();
+        return resultFinal.getText();
     }
 
     public String doSub() throws InterruptedException {
@@ -55,7 +55,7 @@ public class CalcScreen {
         btnMinus.click();
         btn3.click();
         btnEql.click();
-        return resulFinal.getText();
+        return resultFinal.getText();
     }
 
     public String doMul() throws InterruptedException {
@@ -64,7 +64,7 @@ public class CalcScreen {
         btn1.click();
         btn4.click();
         btnEql.click();
-        return resulFinal.getText();
+        return resultFinal.getText();
     }
 
     public String doDiv() throws InterruptedException {
@@ -73,7 +73,7 @@ public class CalcScreen {
         btn1.click();
         btn0.click();
         btnEql.click();
-        return resulFinal.getText();
+        return resultFinal.getText();
     }
 
     public String doSeries() throws InterruptedException {
@@ -94,6 +94,6 @@ public class CalcScreen {
         btnDiv.click();
         btn5.click();
         btnEql.click();
-        return resulFinal.getText();
+        return resultFinal.getText();
     }
 }
